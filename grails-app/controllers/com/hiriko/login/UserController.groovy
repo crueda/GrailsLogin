@@ -1,10 +1,16 @@
 package com.hiriko.login
 
 import org.springframework.dao.DataIntegrityViolationException
+import org.apache.commons.logging.*
+
+import hiriko.User_gui;
 
 class UserController {
 
+    private static Log log = LogFactory.getLog(UserController.class.getName())
+
     static allowedMethods = [save: "POST", update: "POST", delete: "POST"]
+
 
     def index() {
         redirect(action: "list", params: params)
@@ -25,6 +31,13 @@ class UserController {
             render(view: "create", model: [userInstance: userInstance])
             return
         }
+//log.info ("---> a kyros")
+        // insertar en Kyros
+//        def user = new User(params);
+//        log.info("username:"+user.username);
+//        def kyrosUser = new User_gui(username: user.username, password: user.password, fecha_fin: '0', zona: '0', idioma: 'ES', tiempo_refresco: '20') 
+//        kyrosUser.save(flush: true)
+//log.info ("---> insertado en kyros")
 
 		flash.message = message(code: 'default.created.message', args: [message(code: 'user.label', default: 'User'), userInstance.id])
         redirect(action: "show", id: userInstance.id)

@@ -14,7 +14,7 @@ environments {
     development {
         dataSource {
             dbCreate = "update" // one of 'create', 'create-drop', 'update', 'validate', ''
-            url = "jdbc:mysql://localhost:3306/hiriko?autoreconnect=true"
+            url = "jdbc:mysql://localhost:3306/kyros4f1?autoreconnect=true"
         }
     }
     test {

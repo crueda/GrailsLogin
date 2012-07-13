@@ -1,0 +1,134 @@
+2012-07-13 12:13:19,795 [Thread-22] ERROR compiler.GrailsProjectWatcher  - Compilation Error: startup failed:
+C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\domain\hiriko\User_gui.groovy: 7: unexpected token: fecha_fin @ line 7, column 12.
+       Bigint fecha_fin:
+              ^
+
+1 error
+
+2012-07-13 12:13:35,297 [Thread-22] ERROR compiler.GrailsProjectWatcher  - Compilation Error: startup failed:
+C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\domain\hiriko\User_gui.groovy: 7: unable to resolve class Bigint 
+ @ line 7, column 5.
+       Bigint fecha_fin
+       ^
+
+1 error
+
+2012-07-13 12:19:44,865 [Thread-22] ERROR compiler.GrailsProjectWatcher  - Compilation Error: startup failed:
+C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\domain\hiriko\User_gui.groovy: 11: unable to resolve class Ingeter 
+ @ line 11, column 5.
+       Ingeter zona
+       ^
+
+1 error
+
+2012-07-13 12:20:42,644 [http-bio-8080-exec-7] ERROR [/hiriko].[gsp]  - Servlet.service() for servlet [gsp] in context with path [/hiriko] threw exception
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\domain\hiriko\User_gui.groovy: 11: unable to resolve class Ingeter 
+ @ line 11, column 5.
+       Ingeter zona
+       ^
+
+1 error
+
+	at org.codehaus.groovy.control.ErrorCollector.failIfErrors(ErrorCollector.java:302)
+	at org.codehaus.groovy.control.CompilationUnit.applyToSourceUnits(CompilationUnit.java:858)
+	at org.codehaus.groovy.control.CompilationUnit.doPhaseOperation(CompilationUnit.java:548)
+	at org.codehaus.groovy.control.CompilationUnit.compile(CompilationUnit.java:497)
+	at org.codehaus.groovy.control.CompilationUnit.compile(CompilationUnit.java:480)
+	at org.codehaus.groovy.tools.FileSystemCompiler.compile(FileSystemCompiler.java:60)
+	at org.codehaus.groovy.tools.FileSystemCompiler.doCompilation(FileSystemCompiler.java:216)
+	at org.codehaus.groovy.ant.Groovyc.compile(Groovyc.java:909)
+	at org.codehaus.groovy.grails.compiler.Grailsc.compile(Grailsc.java:79)
+	at org.codehaus.groovy.ant.Groovyc.execute(Groovyc.java:607)
+	at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:291)
+	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at com.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1237)
+	at org.apache.tools.ant.dispatch.DispatchUtils.execute(DispatchUtils.java:106)
+	at groovy.util.AntBuilder.performTask(AntBuilder.java:260)
+	at groovy.util.AntBuilder.nodeCompleted(AntBuilder.java:220)
+	at groovy.util.BuilderSupport.doInvokeMethod(BuilderSupport.java:147)
+	at groovy.util.AntBuilder.doInvokeMethod(AntBuilder.java:170)
+	at groovy.util.BuilderSupport.invokeMethod(BuilderSupport.java:64)
+	at org.codehaus.gant.GantBuilder.invokeMethod(GantBuilder.java:99)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaClassSite.call(PogoMetaClassSite.java:45)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:120)
+	at org.codehaus.groovy.grails.compiler.GrailsProjectCompiler.compile(GrailsProjectCompiler.groovy:265)
+	at org.codehaus.groovy.grails.compiler.GrailsProjectCompiler$compile$0.callCurrent(Unknown Source)
+	at org.codehaus.groovy.grails.compiler.GrailsProjectCompiler.compile(GrailsProjectCompiler.groovy:236)
+	at org.codehaus.groovy.grails.compiler.GrailsProjectCompiler.compileAll(GrailsProjectCompiler.groovy:228)
+	at org.codehaus.groovy.grails.compiler.GrailsProjectWatcher.compileIfSource(GrailsProjectWatcher.java:240)
+	at org.codehaus.groovy.grails.compiler.GrailsProjectWatcher.access$300(GrailsProjectWatcher.java:46)
+	at org.codehaus.groovy.grails.compiler.GrailsProjectWatcher$1.onChange(GrailsProjectWatcher.java:142)
+	at org.codehaus.groovy.grails.compiler.DirectoryWatcher.fireOnChange(DirectoryWatcher.java:164)
+	at org.codehaus.groovy.grails.compiler.DirectoryWatcher.run(DirectoryWatcher.java:146)
+	at org.codehaus.groovy.grails.compiler.GrailsProjectWatcher.run(GrailsProjectWatcher.java:163)
+2012-07-13 12:23:48,105 [http-bio-8080-exec-8] ERROR errors.GrailsExceptionResolver  - MissingMethodException occurred when processing request: [POST] /hiriko/user/save - parameters:
+enabled: on
+username: carm7
+_accountLocked: 
+_passwordExpired: 
+_enabled: 
+_accountExpired: 
+create: Crear
+password: ***
+No signature of method: hiriko.User_gui.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), any(), wait(long). Stacktrace follows:
+groovy.lang.MissingMethodException: No signature of method: hiriko.User_gui.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), any(), wait(long)
+	at com.hiriko.login.UserController$$ENd2jZoh.save(UserController.groovy:44)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2012-07-13 12:25:37,379 [http-bio-8080-exec-4] ERROR errors.GrailsExceptionResolver  - MissingMethodException occurred when processing request: [POST] /hiriko/user/save - parameters:
+enabled: on
+username: carm8
+_accountLocked: 
+_passwordExpired: 
+_enabled: 
+_accountExpired: 
+create: Crear
+password: ***
+No signature of method: hiriko.User_gui.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), any(), wait(long). Stacktrace follows:
+groovy.lang.MissingMethodException: No signature of method: hiriko.User_gui.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), any(), wait(long)
+	at com.hiriko.login.UserController$$ENd2k42R.save(UserController.groovy:44)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2012-07-13 12:29:58,782 [http-bio-8080-exec-3] ERROR errors.GrailsExceptionResolver  - MissingMethodException occurred when processing request: [POST] /hiriko/user/save - parameters:
+enabled: on
+username: carm9
+_accountLocked: 
+_passwordExpired: 
+_enabled: 
+_accountExpired: 
+create: Crear
+password: ***
+No signature of method: hiriko.User_gui.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), any(), wait(long). Stacktrace follows:
+groovy.lang.MissingMethodException: No signature of method: hiriko.User_gui.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), any(), wait(long)
+	at com.hiriko.login.UserController$$ENd2k42R.save(UserController.groovy:44)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2012-07-13 12:30:39,404 [http-bio-8080-exec-4] ERROR errors.GrailsExceptionResolver  - MissingMethodException occurred when processing request: [POST] /hiriko/user/save - parameters:
+enabled: on
+username: carm10
+_accountLocked: 
+_passwordExpired: 
+_enabled: 
+_accountExpired: 
+create: Crear
+password: ***
+No signature of method: hiriko.User_gui.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), any(), wait(long). Stacktrace follows:
+groovy.lang.MissingMethodException: No signature of method: hiriko.User_gui.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), any(), wait(long)
+	at com.hiriko.login.UserController$$ENd2lGey.save(UserController.groovy:44)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)

@@ -1,0 +1,228 @@
+2012-07-13 09:27:16,467 [Thread-4] INFO  resource.ResourceProcessor  - Performing a module definition reload
+2012-07-13 09:27:16,471 [Thread-4] INFO  resource.ResourceProcessor  - Loading resource declarations...
+2012-07-13 09:27:16,472 [Thread-4] INFO  resource.ResourceProcessor  - Forgetting all known modules...
+2012-07-13 09:27:16,472 [Thread-4] INFO  resource.ResourceProcessor  - Forgetting all known resources...
+2012-07-13 09:27:16,487 [Thread-4] WARN  module.ModuleDeclarationsFactory  - 'grails.resources.modules' in config does not define any modules
+2012-07-13 09:27:57,709 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\conf\Config.groovy] changed. Applying changes to application.
+2012-07-13 09:36:02,577 [Thread-4] INFO  resource.ResourceProcessor  - Performing a module definition reload
+2012-07-13 09:36:02,577 [Thread-4] INFO  resource.ResourceProcessor  - Loading resource declarations...
+2012-07-13 09:36:02,578 [Thread-4] INFO  resource.ResourceProcessor  - Forgetting all known modules...
+2012-07-13 09:36:02,579 [Thread-4] INFO  resource.ResourceProcessor  - Forgetting all known resources...
+2012-07-13 09:36:02,587 [Thread-4] WARN  module.ModuleDeclarationsFactory  - 'grails.resources.modules' in config does not define any modules
+2012-07-13 09:36:08,461 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\conf\Config.groovy] changed. Applying changes to application.
+2012-07-13 09:36:09,702 [Thread-4] INFO  resource.ResourceProcessor  - Performing a module definition reload
+2012-07-13 09:36:09,703 [Thread-4] INFO  resource.ResourceProcessor  - Loading resource declarations...
+2012-07-13 09:36:09,704 [Thread-4] INFO  resource.ResourceProcessor  - Forgetting all known modules...
+2012-07-13 09:36:09,705 [Thread-4] INFO  resource.ResourceProcessor  - Forgetting all known resources...
+2012-07-13 09:36:09,714 [Thread-4] WARN  module.ModuleDeclarationsFactory  - 'grails.resources.modules' in config does not define any modules
+2012-07-13 09:36:24,821 [http-bio-8080-exec-9] INFO  login.UserController  - list
+2012-07-13 09:36:38,299 [http-bio-8080-exec-9] INFO  login.UserController  - --
+2012-07-13 09:36:38,332 [http-bio-8080-exec-9] INFO  login.UserController  - list
+2012-07-13 09:37:15,758 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\conf\Config.groovy] changed. Applying changes to application.
+2012-07-13 09:38:05,715 [Thread-4] INFO  resource.ResourceProcessor  - Performing a module definition reload
+2012-07-13 09:38:05,716 [Thread-4] INFO  resource.ResourceProcessor  - Loading resource declarations...
+2012-07-13 09:38:05,716 [Thread-4] INFO  resource.ResourceProcessor  - Forgetting all known modules...
+2012-07-13 09:38:05,717 [Thread-4] INFO  resource.ResourceProcessor  - Forgetting all known resources...
+2012-07-13 09:38:05,729 [Thread-4] WARN  module.ModuleDeclarationsFactory  - 'grails.resources.modules' in config does not define any modules
+2012-07-13 09:38:08,442 [http-bio-8080-exec-9] INFO  login.UserController  - list
+2012-07-13 09:39:52,010 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\conf\Config.groovy] changed. Applying changes to application.
+2012-07-13 09:39:53,074 [Thread-4] INFO  resource.ResourceProcessor  - Performing a module definition reload
+2012-07-13 09:39:53,075 [Thread-4] INFO  resource.ResourceProcessor  - Loading resource declarations...
+2012-07-13 09:39:53,076 [Thread-4] INFO  resource.ResourceProcessor  - Forgetting all known modules...
+2012-07-13 09:39:53,077 [Thread-4] INFO  resource.ResourceProcessor  - Forgetting all known resources...
+2012-07-13 09:39:53,086 [Thread-4] WARN  module.ModuleDeclarationsFactory  - 'grails.resources.modules' in config does not define any modules
+2012-07-13 09:40:02,253 [http-bio-8080-exec-5] INFO  login.UserController  - list
+2012-07-13 09:40:35,129 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\controllers\com\hiriko\login\UserController.groovy] changed. Applying changes to application.
+2012-07-13 09:41:27,297 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\controllers\com\hiriko\login\UserController.groovy] changed. Applying changes to application.
+2012-07-13 09:42:17,293 [http-bio-8080-exec-2] INFO  login.UserController  - --create
+2012-07-13 09:42:25,270 [http-bio-8080-exec-2] INFO  login.UserController  - save
+2012-07-13 09:42:25,351 [http-bio-8080-exec-2] INFO  login.UserController  - ---> a kyros
+2012-07-13 09:42:25,362 [http-bio-8080-exec-2] INFO  login.UserController  - username:carm6
+2012-07-13 09:42:25,443 [http-bio-8080-exec-2] INFO  login.UserController  - ---> insertado en kyros
+2012-07-13 09:42:26,198 [http-bio-8080-exec-1] INFO  login.UserController  - show
+2012-07-13 11:54:33,835 [http-bio-8080-exec-6] INFO  login.UserController  - show
+2012-07-13 11:56:46,816 [http-bio-8080-exec-10] INFO  login.UserController  - --
+2012-07-13 11:56:46,908 [http-bio-8080-exec-10] INFO  login.UserController  - list
+2012-07-13 11:56:49,955 [http-bio-8080-exec-9] INFO  login.UserController  - show
+2012-07-13 11:56:56,022 [http-bio-8080-exec-4] INFO  login.UserController  - show
+2012-07-13 11:57:00,256 [http-bio-8080-exec-4] INFO  login.UserController  - --create
+2012-07-13 12:06:26,467 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\controllers\LoginController.groovy] changed. Applying changes to application.
+2012-07-13 12:07:19,131 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\controllers\LoginController.groovy] changed. Applying changes to application.
+2012-07-13 12:08:08,397 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\controllers\LoginController.groovy] changed. Applying changes to application.
+2012-07-13 12:13:19,585 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\domain\hiriko\User_gui.groovy] changed. Applying changes to application.
+2012-07-13 12:13:19,795 [Thread-22] ERROR compiler.GrailsProjectWatcher  - Compilation Error: startup failed:
+C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\domain\hiriko\User_gui.groovy: 7: unexpected token: fecha_fin @ line 7, column 12.
+       Bigint fecha_fin:
+              ^
+
+1 error
+
+2012-07-13 12:13:35,047 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\domain\hiriko\User_gui.groovy] changed. Applying changes to application.
+2012-07-13 12:13:35,297 [Thread-22] ERROR compiler.GrailsProjectWatcher  - Compilation Error: startup failed:
+C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\domain\hiriko\User_gui.groovy: 7: unable to resolve class Bigint 
+ @ line 7, column 5.
+       Bigint fecha_fin
+       ^
+
+1 error
+
+2012-07-13 12:13:47,455 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\domain\hiriko\User_gui.groovy] changed. Applying changes to application.
+2012-07-13 12:14:36,470 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\domain\hiriko\User_gui.groovy] changed. Applying changes to application.
+2012-07-13 12:19:44,654 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\domain\hiriko\User_gui.groovy] changed. Applying changes to application.
+2012-07-13 12:19:44,865 [Thread-22] ERROR compiler.GrailsProjectWatcher  - Compilation Error: startup failed:
+C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\domain\hiriko\User_gui.groovy: 11: unable to resolve class Ingeter 
+ @ line 11, column 5.
+       Ingeter zona
+       ^
+
+1 error
+
+2012-07-13 12:20:42,326 [http-bio-8080-exec-7] WARN  config.ConfigurationFactory  - No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/carlos/.grails/ivy-cache/net.sf.ehcache/ehcache-core/jars/ehcache-core-2.4.6.jar!/ehcache-failsafe.xml
+2012-07-13 12:20:42,367 [http-bio-8080-exec-7] WARN  ehcache.CacheManager  - Creating a new instance of CacheManager using the diskStorePath "C:\Users\carlos\AppData\Local\Temp\" which is already used by an existing CacheManager.
+The source of the configuration was net.sf.ehcache.config.generator.ConfigurationSource$DefaultConfigurationSource@2945fc29.
+The diskStore path for this CacheManager will be set to C:\Users\carlos\AppData\Local\Temp\\ehcache_auto_created_1342174842367.
+To avoid this warning consider using the CacheManager factory methods to create a singleton CacheManager or specifying a separate ehcache configuration (ehcache.xml) for each CacheManager instance.
+2012-07-13 12:20:42,644 [http-bio-8080-exec-7] ERROR [/hiriko].[gsp]  - Servlet.service() for servlet [gsp] in context with path [/hiriko] threw exception
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\domain\hiriko\User_gui.groovy: 11: unable to resolve class Ingeter 
+ @ line 11, column 5.
+       Ingeter zona
+       ^
+
+1 error
+
+	at org.codehaus.groovy.control.ErrorCollector.failIfErrors(ErrorCollector.java:302)
+	at org.codehaus.groovy.control.CompilationUnit.applyToSourceUnits(CompilationUnit.java:858)
+	at org.codehaus.groovy.control.CompilationUnit.doPhaseOperation(CompilationUnit.java:548)
+	at org.codehaus.groovy.control.CompilationUnit.compile(CompilationUnit.java:497)
+	at org.codehaus.groovy.control.CompilationUnit.compile(CompilationUnit.java:480)
+	at org.codehaus.groovy.tools.FileSystemCompiler.compile(FileSystemCompiler.java:60)
+	at org.codehaus.groovy.tools.FileSystemCompiler.doCompilation(FileSystemCompiler.java:216)
+	at org.codehaus.groovy.ant.Groovyc.compile(Groovyc.java:909)
+	at org.codehaus.groovy.grails.compiler.Grailsc.compile(Grailsc.java:79)
+	at org.codehaus.groovy.ant.Groovyc.execute(Groovyc.java:607)
+	at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:291)
+	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at com.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1237)
+	at org.apache.tools.ant.dispatch.DispatchUtils.execute(DispatchUtils.java:106)
+	at groovy.util.AntBuilder.performTask(AntBuilder.java:260)
+	at groovy.util.AntBuilder.nodeCompleted(AntBuilder.java:220)
+	at groovy.util.BuilderSupport.doInvokeMethod(BuilderSupport.java:147)
+	at groovy.util.AntBuilder.doInvokeMethod(AntBuilder.java:170)
+	at groovy.util.BuilderSupport.invokeMethod(BuilderSupport.java:64)
+	at org.codehaus.gant.GantBuilder.invokeMethod(GantBuilder.java:99)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaClassSite.call(PogoMetaClassSite.java:45)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:120)
+	at org.codehaus.groovy.grails.compiler.GrailsProjectCompiler.compile(GrailsProjectCompiler.groovy:265)
+	at org.codehaus.groovy.grails.compiler.GrailsProjectCompiler$compile$0.callCurrent(Unknown Source)
+	at org.codehaus.groovy.grails.compiler.GrailsProjectCompiler.compile(GrailsProjectCompiler.groovy:236)
+	at org.codehaus.groovy.grails.compiler.GrailsProjectCompiler.compileAll(GrailsProjectCompiler.groovy:228)
+	at org.codehaus.groovy.grails.compiler.GrailsProjectWatcher.compileIfSource(GrailsProjectWatcher.java:240)
+	at org.codehaus.groovy.grails.compiler.GrailsProjectWatcher.access$300(GrailsProjectWatcher.java:46)
+	at org.codehaus.groovy.grails.compiler.GrailsProjectWatcher$1.onChange(GrailsProjectWatcher.java:142)
+	at org.codehaus.groovy.grails.compiler.DirectoryWatcher.fireOnChange(DirectoryWatcher.java:164)
+	at org.codehaus.groovy.grails.compiler.DirectoryWatcher.run(DirectoryWatcher.java:146)
+	at org.codehaus.groovy.grails.compiler.GrailsProjectWatcher.run(GrailsProjectWatcher.java:163)
+2012-07-13 12:20:42,656 [http-bio-8080-exec-7] INFO  [localhost].[/hiriko]  - Initializing Spring FrameworkServlet 'grails-errorhandler'
+2012-07-13 12:21:07,153 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\domain\hiriko\User_gui.groovy] changed. Applying changes to application.
+2012-07-13 12:21:27,878 [http-bio-8080-exec-9] WARN  config.ConfigurationFactory  - No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/carlos/.grails/ivy-cache/net.sf.ehcache/ehcache-core/jars/ehcache-core-2.4.6.jar!/ehcache-failsafe.xml
+2012-07-13 12:21:27,888 [http-bio-8080-exec-9] WARN  ehcache.CacheManager  - Creating a new instance of CacheManager using the diskStorePath "C:\Users\carlos\AppData\Local\Temp\" which is already used by an existing CacheManager.
+The source of the configuration was net.sf.ehcache.config.generator.ConfigurationSource$DefaultConfigurationSource@2945fc29.
+The diskStore path for this CacheManager will be set to C:\Users\carlos\AppData\Local\Temp\\ehcache_auto_created_1342174887888.
+To avoid this warning consider using the CacheManager factory methods to create a singleton CacheManager or specifying a separate ehcache configuration (ehcache.xml) for each CacheManager instance.
+2012-07-13 12:21:30,640 [http-bio-8080-exec-9] INFO  login.UserController  - --
+2012-07-13 12:21:30,661 [http-bio-8080-exec-9] INFO  login.UserController  - list
+2012-07-13 12:21:33,560 [http-bio-8080-exec-9] INFO  login.UserController  - --create
+2012-07-13 12:23:33,683 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\controllers\com\hiriko\login\UserController.groovy] changed. Applying changes to application.
+2012-07-13 12:23:40,003 [http-bio-8080-exec-1] INFO  login.UserController  - --create
+2012-07-13 12:23:47,793 [http-bio-8080-exec-8] INFO  login.UserController  - save
+2012-07-13 12:23:47,898 [http-bio-8080-exec-8] INFO  login.UserController  - ---> a kyros
+2012-07-13 12:23:47,908 [http-bio-8080-exec-8] INFO  login.UserController  - username:carm7
+2012-07-13 12:23:48,105 [http-bio-8080-exec-8] ERROR errors.GrailsExceptionResolver  - MissingMethodException occurred when processing request: [POST] /hiriko/user/save - parameters:
+enabled: on
+username: carm7
+_accountLocked: 
+_passwordExpired: 
+_enabled: 
+_accountExpired: 
+create: Crear
+password: ***
+No signature of method: hiriko.User_gui.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), any(), wait(long). Stacktrace follows:
+groovy.lang.MissingMethodException: No signature of method: hiriko.User_gui.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), any(), wait(long)
+	at com.hiriko.login.UserController$$ENd2jZoh.save(UserController.groovy:44)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2012-07-13 12:25:29,816 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\controllers\com\hiriko\login\UserController.groovy] changed. Applying changes to application.
+2012-07-13 12:25:37,238 [http-bio-8080-exec-4] INFO  login.UserController  - save
+2012-07-13 12:25:37,335 [http-bio-8080-exec-4] INFO  login.UserController  - ---> a kyros
+2012-07-13 12:25:37,346 [http-bio-8080-exec-4] INFO  login.UserController  - username:carm8
+2012-07-13 12:25:37,379 [http-bio-8080-exec-4] ERROR errors.GrailsExceptionResolver  - MissingMethodException occurred when processing request: [POST] /hiriko/user/save - parameters:
+enabled: on
+username: carm8
+_accountLocked: 
+_passwordExpired: 
+_enabled: 
+_accountExpired: 
+create: Crear
+password: ***
+No signature of method: hiriko.User_gui.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), any(), wait(long). Stacktrace follows:
+groovy.lang.MissingMethodException: No signature of method: hiriko.User_gui.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), any(), wait(long)
+	at com.hiriko.login.UserController$$ENd2k42R.save(UserController.groovy:44)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2012-07-13 12:29:48,252 [http-bio-8080-exec-3] INFO  login.UserController  - --create
+2012-07-13 12:29:50,274 [http-bio-8080-exec-3] INFO  login.UserController  - save
+2012-07-13 12:29:58,659 [http-bio-8080-exec-3] INFO  login.UserController  - save
+2012-07-13 12:29:58,747 [http-bio-8080-exec-3] INFO  login.UserController  - ---> a kyros
+2012-07-13 12:29:58,759 [http-bio-8080-exec-3] INFO  login.UserController  - username:carm9
+2012-07-13 12:29:58,782 [http-bio-8080-exec-3] ERROR errors.GrailsExceptionResolver  - MissingMethodException occurred when processing request: [POST] /hiriko/user/save - parameters:
+enabled: on
+username: carm9
+_accountLocked: 
+_passwordExpired: 
+_enabled: 
+_accountExpired: 
+create: Crear
+password: ***
+No signature of method: hiriko.User_gui.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), any(), wait(long). Stacktrace follows:
+groovy.lang.MissingMethodException: No signature of method: hiriko.User_gui.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), any(), wait(long)
+	at com.hiriko.login.UserController$$ENd2k42R.save(UserController.groovy:44)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2012-07-13 12:30:16,651 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\controllers\com\hiriko\login\UserController.groovy] changed. Applying changes to application.
+2012-07-13 12:30:25,117 [http-bio-8080-exec-7] INFO  login.UserController  - list
+2012-07-13 12:30:29,161 [http-bio-8080-exec-9] INFO  login.UserController  - --
+2012-07-13 12:30:29,206 [http-bio-8080-exec-9] INFO  login.UserController  - list
+2012-07-13 12:30:31,444 [http-bio-8080-exec-10] INFO  login.UserController  - --create
+2012-07-13 12:30:39,245 [http-bio-8080-exec-4] INFO  login.UserController  - save
+2012-07-13 12:30:39,369 [http-bio-8080-exec-4] INFO  login.UserController  - ---> a kyros
+2012-07-13 12:30:39,379 [http-bio-8080-exec-4] INFO  login.UserController  - username:carm10
+2012-07-13 12:30:39,404 [http-bio-8080-exec-4] ERROR errors.GrailsExceptionResolver  - MissingMethodException occurred when processing request: [POST] /hiriko/user/save - parameters:
+enabled: on
+username: carm10
+_accountLocked: 
+_passwordExpired: 
+_enabled: 
+_accountExpired: 
+create: Crear
+password: ***
+No signature of method: hiriko.User_gui.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), any(), wait(long). Stacktrace follows:
+groovy.lang.MissingMethodException: No signature of method: hiriko.User_gui.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), any(), wait(long)
+	at com.hiriko.login.UserController$$ENd2lGey.save(UserController.groovy:44)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2012-07-13 12:38:09,444 [Thread-22] INFO  compiler.GrailsProjectWatcher  - File [C:\Users\carlos\Documents\GitHub\GrailsLogin\grails-app\controllers\com\hiriko\login\UserController.groovy] changed. Applying changes to application.
